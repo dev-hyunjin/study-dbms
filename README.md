@@ -17,7 +17,7 @@
 			DBMS
 	-----------------------------------------
 	
-### ORACLE
+### - ORACLE
 #### RDBMS(관계형 데이터베이스 시스템)
     테이블끼리 서로 관계를 맺는다.
 
@@ -400,7 +400,7 @@ Table A(Student, Member, User, People)	Table B(Order, Delivery)
 	기획팀     2
 	디자인팀   3
 	
-### MYSQL
+### - MYSQL
 #### MYSQL
     웹 사이트와 다양한 애플리케이션에서 사용되는 DBMS이다.
     오라클은 관리 비용이 고가이지만 MySQL은 저가형 데이터베이스이다.
